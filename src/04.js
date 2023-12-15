@@ -13,9 +13,6 @@ function decode(message) {
     } else {
       result += char;
     }
-
-    console.log(result);
-    console.log(stack);
   }
 
   return result;
